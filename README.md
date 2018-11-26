@@ -1,5 +1,4 @@
 # Filename From Hash
-A small script to rename files to their MD5 hash
 
 ## Why?
 I created this to prevent storing duplicate images I save as I browse the internet. While syncing my folders of memes 
@@ -16,3 +15,6 @@ If you don't manually sort your images, you could set renamed files to be automa
 renamed.
 
 ### Automator Scripts
+![Automator Move Downloaded Images](https://github.com/WilliamKluge/FilenameFromHash/blob/master/images/auto_move_images.png "Automator Move Downloaded Images")
+
+![Automator Run Rename Script](https://github.com/WilliamKluge/FilenameFromHash/blob/master/images/auto_rename.png "Automator Run Rename Script")
